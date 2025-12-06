@@ -1,13 +1,26 @@
-Fork or clone your this chess project into a new GitHub repository.
+# Chess AI with Magic Bitboards and Negamax
 
-Add support for FEN stringsLinks to an external site. to your game setup so that instead of the current way you are setting up your game board you are setting it up with a call similar to the following call.
+## Implementation Overview
 
-FENtoBoard("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR");
+For this assignment I tuned a chess engine by adding movement for the rest of the pieces and featured an AI COM opponent by implementing magic bitboards and negamax with alpha-beta pruning.
 
-Your routine should be able to take just the board position portion of a FEN string, or the entire FEN string like so:
+## Challenges
 
-FENtoBoard("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1");
+1. **Magic Bitboard Implementation**: Generating and validating magic numbers for all 64 squares was complex, used pre-computed values from chess programming resources.
 
-(you can ignore the end for now)
+2. **State-Based Move Generation**: Had to refactor moves to work with state strings instead of the Grid for performance during search.
 
-This will allow you to quickly check that your castling, promotion and en passant code is working.
+4. **Move Generation Correctness**: Ensuring all piece types generate legal moves correctly, especially pawns (double moves, captures) and handling board edges.
+
+## AI Performance
+
+**Depth Achieved**: 3 (default), easily configurable to 5+
+
+**Search Performance**:
+- Depth 3: 10,000+ positions (output of this program)
+- Depth 5: 100k positions
+
+**Playing Strength**:
+- Makes tactically sound moves
+- Captures hanging pieces
+- Avoids obvious blunders

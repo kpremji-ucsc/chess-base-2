@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20251206-0741-Experimental"
+	Name="DESKTOP-QNQIC8U"
+	Generator="ctest-4.2.0-rc1"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.29.30146.0"
+	OSName="Windows"
+	Hostname="DESKTOP-QNQIC8U"
+	OSRelease="10.0.19045"
+	OSVersion="Windows 10"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="1"
+	ModelName="AMD Ryzen 7 5800X 8-Core Processor"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="27081"
+	TotalPhysicalMemory="16329"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3793"
+	>
+	<Testing>
+		<StartDateTime>Dec 05 23:43 Pacific Standard Time</StartDateTime>
+		<StartTestTime>1765007020</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 05 23:43 Pacific Standard Time</EndDateTime>
+		<EndTestTime>1765007020</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\build\CMakeFiles\55bc7465aab43712bfbe38a06ce03102\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\build\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E66DD26C-59F6-3694-8E0A-BDF3F916F6E4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\KEYAN\DOCUMENTS\UCSC\CHESSFINAL\CHESS-BASE-2\CHESS-BASE-MAIN\BUILD\CMAKEFILES\55BC7465AAB43712BFBE38A06CE03102\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main -BC:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main/build/tictactoe.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

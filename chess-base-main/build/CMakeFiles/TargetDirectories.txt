@@ -1,0 +1,9 @@
+C:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main/build/CMakeFiles/Experimental.dir
+C:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main/build/CMakeFiles/Nightly.dir
+C:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main/build/CMakeFiles/Continuous.dir
+C:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main/build/CMakeFiles/demo.dir
+C:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main/build/CMakeFiles/PACKAGE.dir
+C:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/keyan/Documents/UCSC/chessfinal/chess-base-2/chess-base-main/build/CMakeFiles/ZERO_CHECK.dir

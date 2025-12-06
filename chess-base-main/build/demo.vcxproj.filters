@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\Bit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\BitHolder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\ChessSquare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\Grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\TicTacToe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\Checkers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\Othello.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\Connect4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\Chess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\classes\MagicBitboards.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\imgui\imgui_impl_dx11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\main_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\imgui\imgui_impl_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\keyan\Documents\UCSC\chessfinal\chess-base-2\chess-base-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C112E40D-7ACC-3FFB-8D92-17FBE1A3B136}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
